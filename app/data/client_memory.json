@@ -1,0 +1,854 @@
+[
+    {
+        "timestamp": "2025-12-29T02:32:52.346083",
+        "clients": [
+            "TestClient_Escalation"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "TestClient_Escalation",
+                    "email": "bhargav.test@finly.app",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "bhargav.test@finly.app",
+                        "amount": 50000,
+                        "timestamp": "2025-12-28T21:02:52.345288",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T02:34:05.619775",
+        "clients": [
+            "TestClient_Escalation"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "TestClient_Escalation",
+                    "email": "bhargav.test@finly.app",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "bhargav.test@finly.app",
+                        "amount": 50000,
+                        "timestamp": "2025-12-28T21:04:05.618961",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T02:34:56.280045",
+        "clients": [
+            "TestClient_Escalation"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "TestClient_Escalation",
+                    "email": "bhargav.test@finly.app",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "bhargav.test@finly.app",
+                        "amount": 50000,
+                        "timestamp": "2025-12-28T21:04:56.279103",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T02:44:49.526394",
+        "clients": [
+            "naa"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "naa",
+                    "email": "prbhargav2007@gmail.com",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "prbhargav2007@gmail.com",
+                        "amount": 5000,
+                        "timestamp": "2025-12-28T21:14:49.525001",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T02:46:01.595896",
+        "clients": [
+            "naa"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "naa",
+                    "email": "prbhargav2007@gmail.com",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "prbhargav2007@gmail.com",
+                        "amount": 5000,
+                        "timestamp": "2025-12-28T21:16:01.594324",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T02:56:09.090535",
+        "clients": [
+            "acme"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "acme",
+                    "email": "prbhargav2007@gmail.com",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "prbhargav2007@gmail.com",
+                        "amount": 20000,
+                        "timestamp": "2025-12-28T21:26:09.089063",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T02:57:18.892261",
+        "clients": [
+            "acme"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "acme",
+                    "email": "prbhargav2007@gmail.com",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "prbhargav2007@gmail.com",
+                        "amount": 20000,
+                        "timestamp": "2025-12-28T21:27:18.890608",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T09:39:57.052170",
+        "clients": [
+            "tharu",
+            "nag"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "tharu",
+                    "email": "prbhargav2007@gmail.com",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "prbhargav2007@gmail.com",
+                        "amount": 20000,
+                        "timestamp": "2025-12-29T04:09:32.753679",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                },
+                {
+                    "target": "nag",
+                    "email": "n220396@rguktn.ac.in",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "n220396@rguktn.ac.in",
+                        "amount": 50000,
+                        "timestamp": "2025-12-29T04:09:57.049445",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T09:41:22.954043",
+        "clients": [
+            "tharu",
+            "nag"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "tharu",
+                    "email": "prbhargav2007@gmail.com",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "prbhargav2007@gmail.com",
+                        "amount": 20000,
+                        "timestamp": "2025-12-29T04:10:59.730475",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                },
+                {
+                    "target": "nag",
+                    "email": "n220396@rguktn.ac.in",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "n220396@rguktn.ac.in",
+                        "amount": 50000,
+                        "timestamp": "2025-12-29T04:11:22.951625",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T09:46:08.369214",
+        "clients": [
+            "tharu",
+            "nag"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "tharu",
+                    "email": "prbhargav2007@gmail.com",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "prbhargav2007@gmail.com",
+                        "amount": 20000,
+                        "timestamp": "2025-12-29T04:15:44.636716",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                },
+                {
+                    "target": "nag",
+                    "email": "n220396@rguktn.ac.in",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "n220396@rguktn.ac.in",
+                        "amount": 50000,
+                        "timestamp": "2025-12-29T04:16:08.367890",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T09:47:22.440495",
+        "clients": [
+            "tharu",
+            "nag"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "tharu",
+                    "email": "prbhargav2007@gmail.com",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "prbhargav2007@gmail.com",
+                        "amount": 20000,
+                        "timestamp": "2025-12-29T04:16:59.046902",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                },
+                {
+                    "target": "nag",
+                    "email": "n220396@rguktn.ac.in",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "n220396@rguktn.ac.in",
+                        "amount": 50000,
+                        "timestamp": "2025-12-29T04:17:22.437941",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T09:48:24.310865",
+        "clients": [
+            "tharu"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "tharu",
+                    "email": "prbhargav2007@gmail.com",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "prbhargav2007@gmail.com",
+                        "amount": 20000,
+                        "timestamp": "2025-12-29T04:18:24.308867",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T09:50:54.246608",
+        "clients": [
+            "bhargav"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "bhargav",
+                    "email": "prbhargav2007@gmail.com",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "prbhargav2007@gmail.com",
+                        "amount": 150000,
+                        "timestamp": "2025-12-29T04:20:54.244579",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T09:58:17.098314",
+        "clients": [
+            "bhargav"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "bhargav",
+                    "email": "prbhargav2007@gmail.com",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "prbhargav2007@gmail.com",
+                        "amount": 150000,
+                        "timestamp": "2025-12-29T04:28:17.096487",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T10:08:33.262111",
+        "clients": [
+            "bhargav"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "bhargav",
+                    "email": "prbhargav2007@gmail.com",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "prbhargav2007@gmail.com",
+                        "amount": 150000,
+                        "timestamp": "2025-12-29T04:38:33.260074",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T10:24:25.248495",
+        "clients": [
+            "Bhargav.co"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "Bhargav.co",
+                    "email": "prbhargav2007@gmail.com",
+                    "result": {
+                        "status": "SENT (SIMULATED)",
+                        "to": "prbhargav2007@gmail.com",
+                        "amount": 50000,
+                        "timestamp": "2025-12-29T04:54:25.246916",
+                        "note": "Credentials missing - switched to simulation"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T10:35:24.598884",
+        "clients": [
+            "Bhargav.co"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "Bhargav.co",
+                    "email": "prbhargav2007@gmail.com",
+                    "result": {
+                        "status": "SENT",
+                        "to": "prbhargav2007@gmail.com",
+                        "subject": "Friendly Reminder: Payment Due \u2013 Bhargav.co",
+                        "amount": 50000,
+                        "tone": "POLITE",
+                        "timestamp": "2025-12-29T05:05:24.597398"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T10:36:53.068044",
+        "clients": [
+            "tharun.co"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "tharun.co",
+                    "email": "n220533@rguktn.ac.in",
+                    "result": {
+                        "status": "SENT",
+                        "to": "n220533@rguktn.ac.in",
+                        "subject": "Friendly Reminder: Payment Due \u2013 tharun.co",
+                        "amount": 50000,
+                        "tone": "POLITE",
+                        "timestamp": "2025-12-29T05:06:53.066038"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T11:06:56.933407",
+        "clients": [
+            "tarun.co"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "tarun.co",
+                    "email": "prbhargav2007@gmail.com",
+                    "result": {
+                        "status": "SENT",
+                        "to": "prbhargav2007@gmail.com",
+                        "subject": "Friendly Reminder: Payment Due \u2013 tarun.co",
+                        "amount": 50000,
+                        "tone": "POLITE",
+                        "timestamp": "2025-12-29T05:36:56.930448"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2025-12-29T16:25:29.074380",
+        "clients": [
+            "tarun.co",
+            "bhargav"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "tarun.co",
+                    "email": "prbhargav2007@gmail.com",
+                    "result": {
+                        "status": "SENT",
+                        "to": "prbhargav2007@gmail.com",
+                        "subject": "Payment Reminder: Action Required \u2013 \u20b950000",
+                        "amount": 50000,
+                        "tone": "FIRM",
+                        "timestamp": "2025-12-29T10:55:01.521714"
+                    }
+                },
+                {
+                    "target": "bhargav",
+                    "email": "n220396@rguktn.ac.in",
+                    "result": {
+                        "status": "SENT",
+                        "to": "n220396@rguktn.ac.in",
+                        "subject": "Payment Reminder: Action Required \u2013 \u20b9100000",
+                        "amount": 100000,
+                        "tone": "FIRM",
+                        "timestamp": "2025-12-29T10:55:29.070165"
+                    }
+                }
+            ],
+            "tone_used": "FIRM"
+        }
+    },
+    {
+        "timestamp": "2026-01-03T14:56:21.810549",
+        "clients": [
+            "nagaraj",
+            "lokeshG"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "nagaraj",
+                    "email": "n220343@rguktn.ac.in",
+                    "result": {
+                        "status": "SENT",
+                        "to": "n220343@rguktn.ac.in",
+                        "subject": "Friendly Reminder: Payment Due \u2013 nagaraj",
+                        "amount": 50000,
+                        "tone": "POLITE",
+                        "timestamp": "2026-01-03T09:25:53.608263"
+                    }
+                },
+                {
+                    "target": "lokeshG",
+                    "email": "lokeshguntreddi58@gmail.com",
+                    "result": {
+                        "status": "SENT",
+                        "to": "lokeshguntreddi58@gmail.com",
+                        "subject": "Friendly Reminder: Payment Due \u2013 lokeshG",
+                        "amount": 100000,
+                        "tone": "POLITE",
+                        "timestamp": "2026-01-03T09:26:21.807662"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2026-01-03T15:10:34.311553",
+        "clients": [
+            "nagaraj",
+            "lokeshG"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "nagaraj",
+                    "email": "n220343@rguktn.ac.in",
+                    "result": {
+                        "status": "SENT",
+                        "to": "n220343@rguktn.ac.in",
+                        "subject": "Friendly Reminder: Payment Due \u2013 nagaraj",
+                        "amount": 50000,
+                        "tone": "POLITE",
+                        "timestamp": "2026-01-03T09:40:05.328716"
+                    }
+                },
+                {
+                    "target": "lokeshG",
+                    "email": "lokeshguntreddi58@gmail.com",
+                    "result": {
+                        "status": "SENT",
+                        "to": "lokeshguntreddi58@gmail.com",
+                        "subject": "Friendly Reminder: Payment Due \u2013 lokeshG",
+                        "amount": 100000,
+                        "tone": "POLITE",
+                        "timestamp": "2026-01-03T09:40:34.310558"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2026-01-03T15:16:40.596864",
+        "clients": [
+            "nagaraj",
+            "lokeshG"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "nagaraj",
+                    "email": "n220343@rguktn.ac.in",
+                    "result": {
+                        "status": "SENT",
+                        "to": "n220343@rguktn.ac.in",
+                        "subject": "Friendly Reminder: Payment Due \u2013 nagaraj",
+                        "amount": 50000,
+                        "tone": "POLITE",
+                        "timestamp": "2026-01-03T09:46:12.861159"
+                    }
+                },
+                {
+                    "target": "lokeshG",
+                    "email": "lokeshguntreddi58@gmail.com",
+                    "result": {
+                        "status": "SENT",
+                        "to": "lokeshguntreddi58@gmail.com",
+                        "subject": "Friendly Reminder: Payment Due \u2013 lokeshG",
+                        "amount": 100000,
+                        "tone": "POLITE",
+                        "timestamp": "2026-01-03T09:46:40.593963"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2026-01-03T15:27:27.223389",
+        "clients": [
+            "lokeshg",
+            "nagaraj"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "lokeshg",
+                    "email": "lokeshguntreddi58@gmail.com",
+                    "result": {
+                        "status": "SENT",
+                        "to": "lokeshguntreddi58@gmail.com",
+                        "subject": "Friendly Reminder: Payment Due \u2013 lokeshg",
+                        "amount": 100000,
+                        "tone": "POLITE",
+                        "timestamp": "2026-01-03T09:56:56.222645"
+                    }
+                },
+                {
+                    "target": "nagaraj",
+                    "email": "n220343@rguktn.ac.in",
+                    "result": {
+                        "status": "SENT",
+                        "to": "n220343@rguktn.ac.in",
+                        "subject": "Friendly Reminder: Payment Due \u2013 nagaraj",
+                        "amount": 100000,
+                        "tone": "POLITE",
+                        "timestamp": "2026-01-03T09:57:27.218725"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2026-01-03T15:45:59.006438",
+        "clients": [
+            "lokeshg"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "lokeshg",
+                    "email": "lokeshguntreddi58@gmail.com",
+                    "result": {
+                        "status": "SENT",
+                        "to": "lokeshguntreddi58@gmail.com",
+                        "subject": "Friendly Reminder: Payment Due \u2013 lokeshg",
+                        "amount": 500000,
+                        "tone": "POLITE",
+                        "timestamp": "2026-01-03T10:15:59.004424"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2026-01-03T15:50:55.760825",
+        "clients": [
+            "lokesh",
+            "Bhargav"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "lokesh",
+                    "email": "lokeshguntreddi58@gmail.com",
+                    "result": {
+                        "status": "SENT",
+                        "to": "lokeshguntreddi58@gmail.com",
+                        "subject": "Friendly Reminder: Payment Due \u2013 lokesh",
+                        "amount": 50000,
+                        "tone": "POLITE",
+                        "timestamp": "2026-01-03T10:20:27.700953"
+                    }
+                },
+                {
+                    "target": "Bhargav",
+                    "email": "n220396@rguktn.ac.in",
+                    "result": {
+                        "status": "SENT",
+                        "to": "n220396@rguktn.ac.in",
+                        "subject": "Friendly Reminder: Payment Due \u2013 Bhargav",
+                        "amount": 50000,
+                        "tone": "POLITE",
+                        "timestamp": "2026-01-03T10:20:55.758990"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    },
+    {
+        "timestamp": "2026-01-03T15:57:59.284502",
+        "clients": [
+            "Nagaraju.co",
+            "Tharun.co"
+        ],
+        "strategy": "COLLECT_RECEIVABLE",
+        "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+        "result": "BATCH_PROCESSED",
+        "details": {
+            "action_taken": "EMAIL_PAYMENT_REMINDER_MULTI",
+            "targets_processed": [
+                {
+                    "target": "Nagaraju.co",
+                    "email": "n220343@rguktn.ac.in",
+                    "result": {
+                        "status": "SENT",
+                        "to": "n220343@rguktn.ac.in",
+                        "subject": "Friendly Reminder: Payment Due \u2013 Nagaraju.co",
+                        "amount": 80000,
+                        "tone": "POLITE",
+                        "timestamp": "2026-01-03T10:27:30.611765"
+                    }
+                },
+                {
+                    "target": "Tharun.co",
+                    "email": "n220533@rguktn.ac.in",
+                    "result": {
+                        "status": "SENT",
+                        "to": "n220533@rguktn.ac.in",
+                        "subject": "Friendly Reminder: Payment Due \u2013 Tharun.co",
+                        "amount": 90000,
+                        "tone": "POLITE",
+                        "timestamp": "2026-01-03T10:27:59.280231"
+                    }
+                }
+            ],
+            "tone_used": "POLITE"
+        }
+    }
+]
