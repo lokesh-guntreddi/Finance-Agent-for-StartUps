@@ -1,0 +1,14 @@
+﻿fastapi
+uvicorn
+python-dotenv
+motor
+langchain-openai
+langchain-core
+langgraph
+pydantic
+openai
+email-validator
+black
+flake8
+mypy
+pytest
